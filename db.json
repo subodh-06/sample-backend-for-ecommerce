@@ -1,11 +1,164 @@
 [
   {
-    "name": "Hive Full-Size Black - Purple Wired Gaming Keyboard",
-    "category": "keyboard",
-    "mrp": 3119,
-    "currentPrice": 6000,
-    "discount": -2881,
-    "imageUrl": "https://kreo-tech.com/cdn/shop/files/brown_1_b8591448-9c35-49e4-9d0a-ff7ee13ee840.png?v=1734604401&width=990",
-    "id": 1734964836024
+    "name": "Hawk Gaming Mouse - Black",
+    "category": "mouse",
+    "mrp": 2499,
+    "currentPrice": 1270,
+    "discount": 1229,
+    "imageUrl": "https://kreo-tech.com/cdn/shop/files/hawk-first-iamge.png?v=1706688474&width=713",
+    "id": 1734969775117
+  },
+  {
+    "name": "Pegasus 49g Ultra-Light Wired Gaming Mouse",
+    "category": "mouse",
+    "mrp": 4500,
+    "currentPrice": 1500,
+    "discount": 3000,
+    "imageUrl": "https://kreo-tech.com/cdn/shop/files/2_5_b85da126-bf61-4b48-8d36-ff03b229d233.png?v=1726209611&width=713",
+    "id": 1734969996054
+  },
+  {
+    "name": "Chimera Red Wireless Gaming Mouse",
+    "category": "mouse",
+    "mrp": 4000,
+    "currentPrice": 2280,
+    "discount": 1720,
+    "imageUrl": "https://kreo-tech.com/cdn/shop/files/chimerared_1.jpg?v=1709879841&width=713",
+    "id": 1734970037406
+  },
+  {
+    "name": "Chimera Lucid Wireless Gaming Mouse",
+    "category": "mouse",
+    "mrp": 4000,
+    "currentPrice": 2849,
+    "discount": 1151,
+    "imageUrl": "https://kreo-tech.com/cdn/shop/files/1_343174c6-4a54-44b9-bfe1-0e5e5127db39.png?v=1720613895&width=713",
+    "id": 1734970073829
+  },
+  {
+    "name": "Keyboard Carrying Case",
+    "category": "carry case",
+    "mrp": 2649,
+    "currentPrice": 2399,
+    "discount": 250,
+    "imageUrl": "https://keychron.in/wp-content/uploads/2024/10/keychron-q1-keyboard-carrying-case-768x768.jpg",
+    "id": 1734970191750
+  },
+  {
+    "name": "Keyboard Travel Pouch",
+    "category": "carry case",
+    "mrp": 2259,
+    "currentPrice": 2049,
+    "discount": 210,
+    "imageUrl": "https://keychron.in/wp-content/uploads/2021/06/Keychron-K3-Travel-Pouch-Carrying-Case-Sleeve-Black_2d7cd910-5ab2-4348-83cc-9f2d716c45f4_1800x1800-520x520.jpg",
+    "id": 1734970240711
+  },
+  {
+    "name": "Logitech G304 Lightspeed Wireless Gaming Mouse, Hero Sensor, 12,000 DPI, Lightweight, 6 Programmable Buttons, 250h Battery Life, On-Board Memory, Compatible with PC/Mac - White",
+    "category": "mouse",
+    "mrp": 3795,
+    "currentPrice": 2595,
+    "discount": 1200,
+    "imageUrl": "https://m.media-amazon.com/images/I/51DYDLykzoL._SY450_.jpg",
+    "id": 1734975020924
+  },
+  {
+    "name": "Logitech G102 USB Light Sync Gaming Mouse with Customizable RGB Lighting, 6 Programmable Buttons, Gaming Grade Sensor, 8K DPI Tracking, 16.8mn Color, Light Weight - Black",
+    "category": "mouse",
+    "mrp": 2295,
+    "currentPrice": 1095,
+    "discount": 1200,
+    "imageUrl": "https://m.media-amazon.com/images/I/61RYwHoeHjL._SX679_.jpg",
+    "id": 1734975127859
+  },
+  {
+    "name": "Logitech G102 Light Sync Gaming Wired Mouse with Customizable RGB Lighting, 6 Programmable Buttons, Gaming Grade Sensor, 8K DPI Tracking,16.8mn Color, Light Weight - White",
+    "category": "mouse",
+    "mrp": 2295,
+    "currentPrice": 1095,
+    "discount": 1200,
+    "imageUrl": "https://m.media-amazon.com/images/I/519Xke4dPdL._SX679_.jpg",
+    "id": 1734975171307
+  },
+  {
+    "name": "Logitech G402 Hyperion Fury USB Wired Gaming Mouse, 4,000 DPI, Lightweight, 8 Programmable Buttons, Compatible for PC/Mac - Black",
+    "category": "mouse",
+    "mrp": 3395,
+    "currentPrice": 2350,
+    "discount": 1045,
+    "imageUrl": "https://m.media-amazon.com/images/I/5135cJqjQIL._SX679_.jpg",
+    "id": 1734975217646
+  },
+  {
+    "name": "Kreo Lynx Full HD Video Capture Card, HDMI Capture Card with USB 3.0 Video Capture Card for Gaming, Streaming, Broadcast and Video Recording | Full HD 1080p/ 60FPS Support | Wide Compatibility (LYNX)",
+    "category": "capture card",
+    "mrp": 4999,
+    "currentPrice": 1248,
+    "discount": 3751,
+    "imageUrl": "https://m.media-amazon.com/images/I/61KUCRX0oyL._SX679_.jpg",
+    "id": 1734975316019
+  },
+  {
+    "name": "Elgato Game Capture Neo 4K60 HDR USB Passthrough, 1080P60 Capture for Ps4/Ps5/Xbox/Switch/iPhone Capture to Laptop, Pc, Mac, Ipad, White",
+    "category": "capture card",
+    "mrp": 21000,
+    "currentPrice": 11816,
+    "discount": 9184,
+    "imageUrl": "https://m.media-amazon.com/images/I/41GXbgNwQEL._SX466_.jpg",
+    "id": 1734975355691
+  },
+  {
+    "name": "Video Capture Card, PiBOX India Braided Tough, 4K HDMI to USB 3.0 Game Capture Device Aluminium Windows Android Mac,HD 1080P Audio Video Card Live Streaming Gaming, Teaching Live Broadcasting",
+    "category": "capture card",
+    "mrp": 1499,
+    "currentPrice": 599,
+    "discount": 900,
+    "imageUrl": "https://m.media-amazon.com/images/I/71pp6rfeYUL._SX679_.jpg",
+    "id": 1734975404365
+  },
+  {
+    "name": "PiBox India 4K HDMI Video Capture Card Device PRO for Streaming, Full HD 1080P 60FPS, 4K USB3.0 HDMI to USBC, Mic, Audio in Out, 1080P60 Gaming Live",
+    "category": "capture card",
+    "mrp": 3999,
+    "currentPrice": 1549,
+    "discount": 2450,
+    "imageUrl": "https://m.media-amazon.com/images/I/71w1rSzgQpL._SX569_.jpg",
+    "id": 1734975455556
+  },
+  {
+    "name": "Video Capture Card, PiBOX India Braided Tough, 4K HDMI to USB 3.0 Game Capture Device Aluminium Windows Android Mac,HD 1080P 60fps Audio Video Card Live Streaming Gaming, Teaching Broadcasting Gray",
+    "category": "capture card",
+    "mrp": 1999,
+    "currentPrice": 599,
+    "discount": 1400,
+    "imageUrl": "https://m.media-amazon.com/images/I/61S+zoh9cML._SX679_.jpg",
+    "id": 1734975515979
+  },
+  {
+    "name": "Microware Video Capture Cards, 4K HDMI to USB 3.0 Video Capture Device, 60fps Broadcast Live and Record Video Audio Gaming, Streaming, Teaching, Video (4K USB 3.0 HDMI Video Capture)",
+    "category": "capture card",
+    "mrp": 4999,
+    "currentPrice": 1496,
+    "discount": 3503,
+    "imageUrl": "https://m.media-amazon.com/images/I/71oHBHGq2IL._SX450_.jpg",
+    "id": 1734975554028
+  },
+  {
+    "name": "PiBOX India, Video Capture Card, 4K HDMI to USB 3.0 Game Capture Device Aluminium Windows Android Mac,HD 1080P Audio Video Card Live Streaming Gaming Conference,Teaching or Live Broadcasting",
+    "category": "capture card",
+    "mrp": 1999,
+    "currentPrice": 599,
+    "discount": 1400,
+    "imageUrl": "https://m.media-amazon.com/images/I/71nQj4Qno7L._SX679_.jpg",
+    "id": 1734975592536
+  },
+  {
+    "name": "Tobo Levoty Game Capture Cards, Audio Video Capture Cards, HDMI to USB 1080p USB 2.0 Record via DSLR Camcorder Action Cam for Live Streaming/ PS4 / Game/ DVD/ Camera",
+    "category": "capture card",
+    "mrp": 599,
+    "currentPrice": 389,
+    "discount": 210,
+    "imageUrl": "https://m.media-amazon.com/images/I/61yZuVWeciL._SX450_.jpg",
+    "id": 1734975627505
   }
 ]
