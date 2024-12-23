@@ -1,11 +1,20 @@
 [
   {
-    "name": "Hive Full-Size Black - Purple Wired Gaming Keyboard",
+    "name": "jKey",
     "category": "keyboard",
-    "mrp": 3119,
-    "currentPrice": 6000,
-    "discount": -2881,
-    "imageUrl": "https://kreo-tech.com/cdn/shop/files/brown_1_b8591448-9c35-49e4-9d0a-ff7ee13ee840.png?v=1734604401&width=990",
-    "id": 1734964836024
+    "mrp": 700,
+    "currentPrice": 200,
+    "discount": 500,
+    "imageUrl": "https://m.media-amazon.com/images/I/218fOqSir3L._SX300_SY300_QL70_FMwebp_.jpg",
+    "id": 1734977807491
+  },
+  {
+    "name": "Lappy",
+    "category": "switches",
+    "mrp": 5000,
+    "currentPrice": 1000,
+    "discount": 4000,
+    "imageUrl": "https://m.media-amazon.com/images/I/41+53A2qkdL._SY300_SX300_.jpg",
+    "id": 1734977850896
   }
 ]
