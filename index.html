@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Product Management</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Product Management</h1>
+    <form id="productForm">
+        <input type="hidden" name="productId" />
+        <input type="text" name="name" placeholder="Product Name" required />
+        <select name="category" required>
+          <option value="keyboard">Keyboard</option>
+          <option value="mouse">Mouse</option>
+          <option value="switches">Switches</option>
+          <option value="carry case">Carry Case</option>
+          <option value="capture card">Capture Card</option>
+        </select>
+        <input type="number" name="mrp" placeholder="MRP" required />
+        <input type="number" name="currentPrice" placeholder="Current Price" required />
+        <input type="text" name="imageUrl" placeholder="Image URL" required />
+        <button type="submit" id="submitBtn">Add Product</button>
+      </form>
+      
+      <table>
+        <thead>
+          <tr>
+            <th>Name</th>
+            <th>Category</th>
+            <th>MRP</th>
+            <th>Current Price</th>
+            <th>Discount</th>
+            <th>Image</th>
+            <th>Actions</th>
+          </tr>
+        </thead>
+        <tbody id="productTableBody"></tbody>
+      </table>
+      
+    
+    
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>

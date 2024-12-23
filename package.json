@@ -1,0 +1,22 @@
+{
+  "name": "e-commerce-backend",
+  "version": "1.0.0",
+  "description": "a basic backend to store product data",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "e-commerce",
+    "backend",
+    "node",
+    "express"
+  ],
+  "author": "subodh kumar pradhan",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}

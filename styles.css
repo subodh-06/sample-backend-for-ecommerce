@@ -1,0 +1,88 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+  }
+  
+  .container {
+    width: 80%;
+    margin: 20px auto;
+    background: #fff;
+    padding: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  }
+  
+  h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+  form {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+  }
+  
+  form label {
+    grid-column: span 2;
+  }
+  
+  form input, form select, form button {
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  form button {
+    grid-column: span 2;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  form button:hover {
+    background-color: #0056b3;
+  }
+  
+  table {
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+  }
+  
+  table th, table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  table th {
+    background-color: #007BFF;
+    color: white;
+  }
+  
+  .actions button {
+    margin: 0 5px;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .actions .edit {
+    background-color: #ffc107;
+    color: white;
+  }
+  
+  .actions .delete {
+    background-color: #dc3545;
+    color: white;
+  }
+  table td img {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+    
